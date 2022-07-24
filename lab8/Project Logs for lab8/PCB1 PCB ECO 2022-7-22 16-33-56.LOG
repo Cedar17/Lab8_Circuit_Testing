@@ -1,0 +1,8 @@
+Added Component: Designator=C1(CBB-CL71)
+Add component (AddParameter): Name = "BOM名称"; Value = "CBB电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=C1-1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC1_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 0.1uF/275V
+Added Room: Name=Sheet1

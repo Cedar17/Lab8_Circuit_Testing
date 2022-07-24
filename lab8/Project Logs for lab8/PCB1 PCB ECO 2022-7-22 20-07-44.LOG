@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+12 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=+12 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=+12 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Member From Class: ClassName=Sheet1 Member=C3
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet1 Member=C14
+Removed Member From Class: ClassName=Sheet1 Member=C16
+Removed Member From Class: ClassName=Sheet1 Member=C17
+Removed Member From Class: ClassName=Sheet1 Member=C18
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=Power-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-4
+Change Net Name : Old Net Name=GND New Net Name=-12
+Added Room: Name=Sheet1
